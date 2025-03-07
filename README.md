@@ -40,13 +40,6 @@ pip install transformers torch spacy networkx matplotlib bs4
 3. Generate and visualize the knowledge graph using the HTML files.
 4. Open the visualization files in a browser to explore the extracted relationships.
 
-## Team Members
-- **Team Lead**: Sohaib Zafar (p20-0574)
-- **Research Team**: Usama Ahmad, Hassan Ahmad
-- **Data Collection Team**: Meer Murtaza, Azam Irfan
-- **Code Team**: Sohaib Zafar, Abu Huraira, Umer Saleem, Usama Asghar, Amir Hamza, Fahad Nawaz
-- **Documentation Team**: Hafiz Usman, Muhammad Ali
-
 ## References
 1. An, B., Chen, B., Han, X., & Sun, L. (2018). Accurate text-enhanced knowledge graph representation learning.
 2. Kertkeidkachorn, N., & Ichise, R. (2017). T2kg: An end-to-end system for creating a knowledge graph from unstructured text.
